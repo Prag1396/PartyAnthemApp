@@ -90,7 +90,7 @@
                                                     </constraints>
                                                 </imageView>
                                                 <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="When the sun goes down" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="20" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="6fW-Zg-eCZ">
-                                                    <rect key="frame" x="79" y="11" width="335" height="52"/>
+                                                    <rect key="frame" x="79" y="11" width="296" height="52"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="52" id="N3l-54-KRU"/>
                                                     </constraints>
